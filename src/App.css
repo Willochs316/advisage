@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
 * {
   margin: 0px;
   padding: 0px;
@@ -21,10 +23,10 @@ body::-webkit-scrollbar {
   width: 100%;
   /* max-width: 1920px; */
   color: #ffffff !important;
-  height: 7142px;
+  /* height: 7142px; */
   background: #ffffff 0% 0% no-repeat padding-box;
   opacity: 1;
+  font-family: "Lato";
   overflow: hidded;
   position: relative;
-  background-color: red;
 }
